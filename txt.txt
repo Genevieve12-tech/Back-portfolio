@@ -1,0 +1,4 @@
+password: nuuQMZ5hAQd2TLTj
+username: asuetta123
+mongodb+srv://asuetta123:nuuQMZ5hAQd2TLTj@reactbackendportfolio.uzcvu85.mongodb.net/
+Drivers: mongodb+srv://asuetta123:nuuQMZ5hAQd2TLTj@reactbackendportfolio.uzcvu85.mongodb.net/?retryWrites=true&w=majority
